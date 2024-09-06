@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 public class Menu {
 
-    int opcao;
     static File file = new File("src/resources/formulario.txt");
 
     public static boolean printMenu(){

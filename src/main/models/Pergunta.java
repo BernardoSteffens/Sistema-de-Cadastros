@@ -3,12 +3,8 @@ package main.models;
 import main.util.Arquivos;
 
 import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
-
-import static java.nio.file.Files.lines;
 
 public class Pergunta {
 
